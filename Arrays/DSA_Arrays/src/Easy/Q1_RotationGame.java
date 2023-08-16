@@ -1,19 +1,19 @@
-/*
-Given an integer array A of size N and an integer B, you have to print the same array after rotating it B times towards the right.
 
-Constraint:
-1 <= N <= 10^5
--10^5 <= A[i] <= 10^5
+//Given an integer array A of size N and an integer B, you have to print the same array after rotating it B times towards the right.
+//
+//Constraint:
+//1 <= N <= 10^5
+//-10^5 <= A[i] <= 10^5
+//
+//Sample:
+//Input : 4 1 2 3 4
+//        2
+//
+//Output: 3 4 1 2
 
-Sample:
-Input : 4 1 2 3 4
-        2
-
-Output: 3 4 1 2
-*/
 package Easy;
 
-public class RotationGame {
+public class Q1_RotationGame {
     int[] RotationGame(int[] array, int rotate){
         int n = array.length;
         reverse(array, 0, n-1);
