@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d4db113-fcd5-41e7-9347-cd3faeffa98a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/DSA_Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/out/production/DSA_Arrays/Easy/Easy_Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/out/production/DSA_Arrays/Easy/Q1_RotationGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/out/production/DSA_Arrays/Easy/Q2_GoodPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/out/production/DSA_Arrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/src/Easy/Easy_Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/src/Easy/Q1_RotationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/src/Easy/Q2_GoodPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Arrays/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2U5yM5ajXhs9q1CH4B4msbuu7eS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/TLTUser/Desktop/DSA/Arrays"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4db113-fcd5-41e7-9347-cd3faeffa98a" name="Changes" comment="" />
+      <created>1692243685874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692243685874</updated>
+    </task>
+    <servers />
+  </component>
+</project>
